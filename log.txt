@@ -29,3 +29,25 @@ b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
 c8d9d38 adding starter files
 cbe4517 first commit
+
+
+1824768 (HEAD -> main) Task 2.2 Completed
+3abacfa update log up to task 2.1
+7ff8acf Task 2.1 Completed
+c4bffe6 Task 1.2 Completed
+e5a3efb (origin/main, origin/HEAD) Task 1.1 Completed
+
+
+a5d4adc (HEAD -> main) Task 2.3 Completed
+1824768 Task 2.2 Completed
+3abacfa update log up to task 2.1
+7ff8acf Task 2.1 Completed
+c4bffe6 Task 1.2 Completed
+e5a3efb (origin/main, origin/HEAD) Task 1.1 Completed
+1a0e080 Task 1.1 Completed
+2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
+ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
+b545fe2 clarifying extracted method names in README.md
+a0124c9 fixing starter file
+c8d9d38 adding starter files
+cbe4517 first commit
